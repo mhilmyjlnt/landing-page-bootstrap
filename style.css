@@ -1,0 +1,11 @@
+/* breakpoint di desktop */
+@media (min-width: 768px){
+  .navbar-collapse{
+    justify-content: flex-end;
+  }
+}
+
+/* breakpoint di tablet */
+@media (max-width: 768px){
+  
+}
